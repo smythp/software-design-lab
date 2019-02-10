@@ -1,0 +1,7 @@
+Software Design lab hours 2/6/19
+
+This week I spent approximately three hours installing git and creating a github account using the following tutorial:
+https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
+Adding a file to the staging environment (step 3) was confusing to me at first. A fellow peer explained to me that the file needed to be saved to my computer, anywhere on my computer and THEN added using the git add command. My confusion lied with where to save the file. I thought it had to be saved to a git application which I later learned doesn’t actually exist.
+
+Everything went smoothly until it was time to create a pull request (step 8). In github, when I tried to merge the pull requests I was told that the files were identical and could not be merged. I got stuck on this for about 45 minutes until I decided to create a new .txt file and add it to my branch, which made it different from my master and was then able to merge the pull request. From there I was successfully able to get github changes back on my computer and “bask in my git glory” (kind of). I don’t completely understand the concept of git, and I would like that the be one of by goals for this class.
