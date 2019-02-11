@@ -11,3 +11,4 @@ Hour 4: Tried to clone software-lab repository in terminal again. Downloaded new
 Hour 5: DHRI Command Line tutorial. Lost files I had created in terminal by deleting them in Desktop from the front end. Got rather confused and decided to stay away from the front end.
 Hour 6: Tried to clone software-lab repository in terminal again. Got really frustrated. Decided to ask someone for help on Tuesday.
 Hour 7: Set out to finish the DHRI Command Line tutorial but my brain was sluggish and dull and I kept going over the same exercises and getting them wrong, so I stopped.
+Note: I'm trying to commit this journal to GitHub. I'm a little confused. 
