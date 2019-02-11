@@ -12,3 +12,11 @@ Hour 5: DHRI Command Line tutorial. Lost files I had created in terminal by dele
 Hour 6: Tried to clone software-lab repository in terminal again. Got really frustrated. Decided to ask someone for help on Tuesday.
 Hour 7: Set out to finish the DHRI Command Line tutorial but my brain was sluggish and dull and I kept going over the same exercises and getting them wrong, so I stopped.
 Note: I'm trying to commit this journal to GitHub. I'm a little confused. 
+
+## Week Three (2/7 to 2/13)
+
+Ummm lemme see
+
+Hour 1: DHRI Git tutorial
+Hour 2: DHRI Git tutorial and tried to add journal.md to GitHub
+

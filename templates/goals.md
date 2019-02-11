@@ -1,7 +1,7 @@
 
 # $Sabina's Course Goals
 
-## Goal One Design or design and build a reentry app for formerly incarcerated people or a relapse prevention app for people who just got out of rehab or a recovery app for people who use mind-altering substances and want to stop using these
+## Goal One Design or design and build a reentry app for formerly incarcerated people or a relapse prevention app for people who just got out of rehab or a recovery app for people who use mind-altering substances and want to stop using these or want to continue using these in a safe and reasonable way
 
 
 -----
