@@ -30,3 +30,14 @@ Hour 2: DHRI Git tutorial and tried to add journal.md to GitHub
 
 Hour 3: continued to try to push journal.md to GitHub and succeeded. Updated goals.md. 
 
+Hour 4: Command line crash course from Learn Python the Hard Way. I had started Learn Python the Hard Way, and in lesson 0 Zed Shaw told me to do his command line crash course before going any further. Although I had done more than half of the DHRI command line tutorial (up to Pipes), I thought it best to do Zed Shaw's command line crash course from beginning to end too. 
+
+Hour 5: Command line crash course from Learn Python the Hard Way
+
+Hour 6: Command line crash course from Learn Python the Hard Way
+
+Hour 7: Learn Python the Hard Way, lessons 1-3 
+
+Hour 8: Learn Python the Hard Way, lessons 4-5
+
+Hour 9: Learn Python the Hard Way, lesson 6
