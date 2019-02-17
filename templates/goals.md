@@ -1,5 +1,5 @@
 
-# $Sabina's Course Goals
+# Sabina's Course Goals
 
 ## Goal One: spec a reentry app for formerly incarcerated people or an app for people in recovery from chemical dependency or who use mind-altering substances and want to stop using these or who want to continue using these in a safe and reasonable way
 
