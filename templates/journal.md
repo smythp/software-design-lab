@@ -41,3 +41,10 @@ Hour 7: Learn Python the Hard Way, lessons 1-3
 Hour 8: Learn Python the Hard Way, lessons 4-5
 
 Hour 9: Learn Python the Hard Way, lesson 6
+
+## Week 4 (2/14 to 2/20)
+
+One of the things I have to do this week is tidy up my folders on my computer. I have two projects folders; one is in Desktop and the other is somewhere else. Both have files in them, but not the same files. I'm going to move and then remove files, but I'll do this tonight or tomorrow. 
+
+Hour 1: modified goals and journal, and pushed both to the repository. Explained to one of my classmates how to modify files in code and then push modified files to a repository. 
+
