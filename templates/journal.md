@@ -44,7 +44,10 @@ Hour 9: Learn Python the Hard Way, lesson 6
 
 ## Week 4 (2/14 to 2/20)
 
-One of the things I have to do this week is tidy up my folders on my computer. I have two projects folders; one is in Desktop and the other is somewhere else. Both have files in them, but not the same files. I'm going to move and then remove files, but I'll do this tonight or tomorrow. 
+One of the things I have to do this week is tidy up my directories. I have two projects directories; one is in Desktop and the other is somewhere else. Both have files in them, but not the same files. I'm going to move and then remove files, but I'll do this tonight or tomorrow. 
 
-Hour 1: modified goals and journal, and pushed both to the repository. Explained to one of my classmates how to modify files in code and then push modified files to a repository. 
+Hour 1: modified goals and journal, and pushed both to the repository. Explained to one of my classmates how to modify files in code and then push modified files to a repository. Googled how to move files from one directory to another. Tried to do it. It didn't work.
 
+Hour 2: did exercise six in Learn Python 3 the Hard Way. I had done Exercise 6 in Learn Python 2 the Hard Way but making strings and variables in Python 3 following instructions from the Python 2 book hadn't worked. With the Python 3 book it was easy peasy. Then I decided to give moving files between directories another try. I consulted Zed Shaw's command line crash course. I'm confused because moving files isn't really moving them, it's renaming them. I have to ask Patrick about this. Because moving was confusing, I copied instead. I copied a bunch of files from Users/sabinapringle to Users/sabinapringle/projects/ and then removed the files in Users/sabinapringle. I know there has to be a better way. I want to move stuff, not copy stuff or rename stuff. And I want to move a bunch of files at once. I know I can use wildcards but when I tried it didn't work. I can copy files but I don't think I know how to copy directories. I could figure all this stuff out but I think this time I might ask a digital fellow for help, because I prefer to move on with the exercises in Learn Python the Hard Way.
+
+Hour 3: Learn Python the Hard Way exx 7-
