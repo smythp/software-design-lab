@@ -52,3 +52,4 @@ Hour 2: did exercise six in Learn Python 3 the Hard Way. I had done Exercise 6 i
 
 Hour 3: wow I did something really weird and got kind of stuck in the middle of committing my journal. I couldn't figure out how to get back to the $ sign (exit commands I know didn't work) so I closed Terminal. When I went back in I tried to commit again and I got a scary error message telling me that there was a process running and I had to remove a swap - I think it was swap - file.
 The thing I had to do was vim -r /Users/sabinapringle/Desktop/projects/software-design-lab/.git/COMMIT_EDITMSG 
+Hour 4: Learn Python the Hard Way, exx 7-10
