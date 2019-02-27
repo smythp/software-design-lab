@@ -42,7 +42,7 @@ Hour 8: Learn Python the Hard Way, lessons 4-5
 
 Hour 9: Learn Python the Hard Way, lesson 6
 
-## Week 4 (2/14 to 2/20)
+## Week Four (2/14 to 2/20)
 
 One of the things I have to do this week is tidy up my directories. I have two projects directories; one is in Desktop and the other is somewhere else. Both have files in them, but not the same files. I'm going to move and then remove files, but I'll do this tonight or tomorrow. 
 
@@ -52,4 +52,27 @@ Hour 2: did exercise six in Learn Python 3 the Hard Way. I had done Exercise 6 i
 
 Hour 3: wow I did something really weird and got kind of stuck in the middle of committing my journal. I couldn't figure out how to get back to the $ sign (exit commands I know didn't work) so I closed Terminal. When I went back in I tried to commit again and I got a scary error message telling me that there was a process running and I had to remove a swap - I think it was swap - file.
 The thing I had to do was vim -r /Users/sabinapringle/Desktop/projects/software-design-lab/.git/COMMIT_EDITMSG 
+
 Hour 4: Learn Python the Hard Way, exx 7-10
+
+## Week Five (2/21 to 2/27)
+
+This week sucked in twenty-seven ways because I had twenty-seven student papers to grade. It didn't suck because the papers sucked; a lot of them were pretty good; the week sucked because grading those papers took me all darn weekend and I didn't have much time to do anything else. I did get some reading done, though, and I installed Jekyll, and I think I wrote and ran something in Jekyll, following a tutorial I google-found, but I don't really know what I did. It was fun, though, whatever it was. I also went to the digital fellows' office hours on Monday and got great help from Javier understanding what I can do with HTML.
+
+I had read "FSF: What Is Free Software?" and "The Cathedral and the Bazaar" for week three because I got my weeks mixed up and thought we were in week four last week. I therefore hadn't read the accessibility readings for week three and felt really bad in class because I'm super interested in accessibiity and know it's really important. I couldn't contribute to the discussion last week because I hadn't read the stuff. Grrrr. Sorry. HowEVer, I read "How People with Disabilities Use the Web: Tools and Techniques (W3C)" and "Dear Developer, The Web Isn't About You" (I LOVED "Dear Developer"! I kept laughing out loud :)) and now I'm very on top of the readings. For next week I'll read "Two Bit History: The World Wide Web and Its Inventor" and "Free as in Freedom" and will be able to talk a lot in class. 
+
+I didn't do any Python. Not good. I have to do a little every day, or I won't learn. I'm going to do some now. 
+
+Hour 1: caught up with reading (I don't think catching up with reading should go in this technical journal but I'll make an exception this week)
+
+Hour 2: caught up with reading
+
+Hour 3: caught up with reading
+
+Hour 4: installed Jekyll
+
+Hour 5: did strange Jekyll tutorial I found on the web and might have built something
+
+Hour 6: hung out with digital fellows in their office hours and javier helped me understand that I can build websites in HTML offline and see them offline (I think I understood this - I'll double check with you) and now I totally see how the setup for teaching coding in prison will be. I'm really excited about this. 
+
+Hour 7: now. Doing Learn Python the Hard Way. Will update journal shortly.
