@@ -75,4 +75,4 @@ Hour 5: did strange Jekyll tutorial I found on the web and might have built some
 
 Hour 6: hung out with digital fellows in their office hours and javier helped me understand that I can build websites in HTML offline and see them offline (I think I understood this - I'll double check with you) and now I totally see how the setup for teaching coding in prison will be. I'm really excited about this. 
 
-Hour 7: now. Doing Learn Python the Hard Way. Will update journal shortly.
+Hour 7: Learn Python the Hard Way exx 11-12. It seems to me that if from the command line I create a new file called ex10.py and ex10.py already exists, nothing happens. I don't get a message like I get in Windows or iOS asking me if I want to replace the file. Nor is ex10.py duplicated. It simply isn't created. I'll ask someone if my understanding is correct.
