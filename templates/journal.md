@@ -78,3 +78,6 @@ Hour 6: hung out with digital fellows in their office hours and javier helped me
 Hour 7: Learn Python the Hard Way exx 11-12. It seems to me that if from the command line I create a new file called ex10.py and ex10.py already exists, nothing happens. I don't get a message asking me if I want to replace the file. Nor is ex10.py replaced or duplicated. It simply isn't created. I'll ask someone if my understanding is correct. I don't understand what pydoc is. I looked it up in https://docs.python.org/2/library/pydoc.html but I still don't understand. According to this website pydoc is a module but I'm not sure what a module is in python. Pydoc "automatically generates documentation from Python modules. The documentation can be presented as pages of text on the console, served to a Web browser, or saved to HTML files." Hm. Duh. No comprendo.
 
 Hour 8: ha! Comprendo a little more. I did ex13.py and created argument variables and understand that sys is a module. It's still a hazy comprehension that I have; rather, it's a glimmer in the darkness, a promise of more light to come. :)
+
+Week 6
+
