@@ -79,12 +79,12 @@ Hour 7: Learn Python the Hard Way exx 11-12. It seems to me that if from the com
 
 Hour 8: ha! Comprendo a little more. I did ex13.py and created argument variables and understand that sys is a module. It's still a hazy comprehension that I have; rather, it's a glimmer in the darkness, a promise of more light to come. :)
 
-## Week 6 (2/28 to 3/6)
+## Week Six (2/28 to 3/6)
 
 I didn’t do any Learn Python the Hard Way this week. This really bugs me. However, the reason I didn’t do any Python is because I chose to do the reading instead. I loved reading Free as in Freedom. I didn’t need to read it because I’d read The Cathedral and the Bazar, which I also enjoyed very much. I had read FSF: What is free software the week before. I was thrilled with copyleft. Ha. Such a good idea. And I totally get the difference between open source and free source. These are really important fundamental concepts and I’m glad that I made the decision to do all that reading rather than work on learning to code. In a perfect world I should have been able to do both, but due to the imperfect nature of my current existence, time was not abundant enough.
 I’m not going to list the hours reading, but instead note that I spent many hours reading and going off on reading-connected tangents.  
 
-## Week 7 (3/7 to 3/13)
+## Week Seven (3/7 to 3/13)
 
 Interesting: Python does imperative programming. It works in steps and often changes the state of the program by introducing new variables and/or changing existing variables. Functional programs, on the other hand, avoid states as much as they can. This is a wild concept. Not sure how I picture this. If I understand correctly a functional program sees the paradigm as a problem and comes up with a solution. Solutions are functions “that pass values to one another.” I don’t see what values are as opposed to variables. What is the difference between variables in an imperative program and values in a functional program? 
 In a functional program the question of the state of the program tends to be isolated. The functions, which pass values from one to another, seek to be predictable. These functions should always produce the same output if fed the same input. 
