@@ -96,7 +96,7 @@ Hour 2: I read the homework (“An Introduction to Programming”), downloaded t
 
 Hour 3: Re-read An Introduction to Programming. I still don't understand. I feel very dull-witted. I'll hopefully have a eureka I can see the light moment in class. For now I'm putting this aside and going to do some soothing Learn Python the Hard Way. 
 
-## Week Eight
+## Week Eight (3/14 to 3/20)
 
 Wow. Week eight already. I'm turning over a new leaf. This week we will see many hours of hacking documented in this journal. 
 
@@ -111,7 +111,7 @@ Hour 4: LPTHW ex18. Now Zed Shaw introduces us to functions. I think functions m
 
 Hour 5: I went to digital fellow office hours to ask for help with ex19.py. Digital fellows is packed today. So I couldn't get help from anyone because all the fellows are busy. I have to rush to class. 
 
-## Week Nine
+## Week Nine (3/21 to 3/27)
 
 I was supposed to recover from oral surgery in the four days following 3/14 and I suppose I did, but as I was doing so I got a big infection in the root of another tooth and it was really painful, but I thought it was the post-surgery trauma that was hurting and didn’t realize I had a massive infection until 3/25 when I went to the dentist for post-surgery follow-up. Due to this infection I have been finding it difficult to stay on top of things. The good news is that it’s over, gone, done with. My dentist extracted the infected tooth on 3/25 and I’ve been feeling myself again since then. 
 
