@@ -121,6 +121,8 @@ Hour 1: W3Schools Tutorial on SQL
 
 Hour 2: W3Schools Tutorial on SQL
 
-Hour 3: figured out how to push my project description assignment to GitHub as a new .md file, and put it on GitHub
+Hour 3: wrote the description of the static site I want developed (this was the assignment for this week) and sent it to you by email
+
+Hour 4: figured out how to push my project description assignment to GitHub as a new .md file, and put it on GitHub
 
 I’m afraid that was it for this week. I’ll have more to say in next week’s journal. 
