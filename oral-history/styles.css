@@ -1,0 +1,15 @@
+body {
+    margin: 0 10% 0 10%;
+    background-color: white;
+}
+p {background-color: white}
+#main-image {
+    float: left;
+    padding: 0 15px 15px 0;
+    width: 45%
+}
+
+nav a {
+    margin-right: 10px;
+}
+
