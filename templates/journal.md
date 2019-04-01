@@ -110,3 +110,17 @@ Hour 3: Learn Python the Hard Way (LPTHW from now on) ex16. I need to remember t
 Hour 4: LPTHW ex18. Now Zed Shaw introduces us to functions. I think functions might not be exactly the same thing as modules after all. I did ex18 with no problem whatsoever. Then I did ex19. It won't run. Nothing happens. It drives me nuts. I went over it again and again, no syntax errors. I exited terminal and went back. It won't run. I did cat ex19.py and everything looks right. I googled the problem with ex19, haven't found an answer so far. 
 
 Hour 5: I went to digital fellow office hours to ask for help with ex19.py. Digital fellows is packed today. So I couldn't get help from anyone because all the fellows are busy. I have to rush to class. 
+
+## Week Nine
+
+I was supposed to recover from oral surgery in the four days following 3/14 and I suppose I did, but as I was doing so I got a big infection in the root of another tooth and it was really painful, but I thought it was the post-surgery trauma that was hurting and didn’t realize I had a massive infection until 3/25 when I went to the dentist for post-surgery follow-up. Due to this infection I have been finding it difficult to stay on top of things. The good news is that it’s over, gone, done with. My dentist extracted the infected tooth on 3/25 and I’ve been feeling myself again since then. 
+
+This is my journal entry for last week. I’m sorry to be posting it late. Basically, all I did this past week was the SQL tutorial, which was a lot of fun; SQL seems somewhat intuitive when one gets used to its syntax, but at the same time it feels a bit clunky, maybe because it’s been around since the ‘70s. 
+
+Hour 1: W3Schools Tutorial on SQL
+
+Hour 2: W3Schools Tutorial on SQL
+
+Hour 3: figured out how to push my project description assignment to GitHub as a new .md file, and put it on GitHub
+
+I’m afraid that was it for this week. I’ll have more to say in next week’s journal. 
